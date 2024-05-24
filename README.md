@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CUDA programming
 - 💞️ I’m looking to collaborate on open source physical based simulation tools
 
-Much of my work is not available on public domain yet. But, I am currently working to migrate private repositories to public.
+Much of my work is not available on public domain yet. But, I am currently working to migrate private repositories to public - so the projects a good programming protocol for public use and development.
 
 <!---
 iamparik/iamparik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
